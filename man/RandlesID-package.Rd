@@ -9,6 +9,14 @@
 Fast algorithm for computing Randles interdirections
 for multivariate data.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ErikMendros/RandlesID}
+  \item Report bugs at \url{https://github.com/ErikMendros/RandlesID/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Erik Mendros \email{erikmendros@gmail.com}
 

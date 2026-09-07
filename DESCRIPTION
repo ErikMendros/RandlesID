@@ -22,3 +22,6 @@ LinkingTo:
     Rcpp
 URL: https://github.com/ErikMendros/RandlesID
 BugReports: https://github.com/ErikMendros/RandlesID/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
