@@ -20,3 +20,5 @@ Imports:
     Rcpp
 LinkingTo:
     Rcpp
+URL: https://github.com/ErikMendros/RandlesID
+BugReports: https://github.com/ErikMendros/RandlesID/issues
