@@ -1,0 +1,22 @@
+Package: RandlesID
+Title: Fast Computation of Randles Interdirections
+Version: 0.1.0
+Authors@R: 
+    person(
+        given = "Erik",
+        family = "Mendros",
+        role = c("aut", "cre"),
+        email = "erikmendros@gmail.com"
+    )
+Description: Provides fast algorithms for computing Randles
+    interdirections for multivariate data in dimensions three and
+    higher. The implementation uses a sweep algorithm in dimension
+    three and dimension reduction for higher-dimensional data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports:
+    Rcpp
+LinkingTo:
+    Rcpp
